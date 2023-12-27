@@ -526,6 +526,15 @@ nav.nav__toggle:hover{
 .skills__nx{
   width: 61%;
 }
+.skills__github{
+  width: 84%;
+}
+.skills__docker{
+  width: 47%;
+}
+.skills__bash{
+  width: 61%;
+}
 
 .skills__close .skills__list{
   height: 0;
