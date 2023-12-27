@@ -613,7 +613,7 @@ nav.nav__toggle:hover{
   color: var(--first-color);
 }
 
-/*==================== SERVICES ====================*/
+/*==================== EXPERIENCES ====================*/
 .services__container{
   gap: 1.5rem;
   grid-template-columns: repeat(2, 1fr);

@@ -138,7 +138,7 @@ tabs.forEach(tab =>{
 
  
 
-/*==================== SERVICES MODAL ====================*/
+/*==================== EXPERIENCES MODAL ====================*/
 
 const modalViews = document.querySelectorAll('.services__modal'),
 
