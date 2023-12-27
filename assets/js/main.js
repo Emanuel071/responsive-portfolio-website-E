@@ -138,13 +138,13 @@ tabs.forEach(tab =>{
 
  
 
-/*==================== EXPERIENCES MODAL ====================*/
+/*==================== SERVICES MODAL ====================*/
 
-const modalViews = document.querySelectorAll('.experiences__modal'),
+const modalViews = document.querySelectorAll('.services__modal'),
 
-      modalBtns  = document.querySelectorAll('.experiences__button'),
+      modalBtns  = document.querySelectorAll('.services__button'),
 
-      modalCloses = document.querySelectorAll('.experiences__modal-close')
+      modalCloses = document.querySelectorAll('.services__modal-close')
 
  
 
