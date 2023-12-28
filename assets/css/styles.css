@@ -541,6 +541,9 @@ nav.nav__toggle:hover{
 .skills__r{
   width: 47%;
 }
+.skills__pyspark{
+  width: 79%;
+}
 
 .skills__close .skills__list{
   height: 0;
