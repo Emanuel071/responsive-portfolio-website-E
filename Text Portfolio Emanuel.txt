@@ -1,29 +1,28 @@
 * HOME
 home__social
-https://www.linkedin.com/
-https://dribbble.com/
-https://github.com/
+https://linkedin.com/in/eacalderon-engmba-analytics
+https://github.com/Emanuel071
 
 home__description
-High level experience in web design and development knowledge, producing quality work.
-
+Professional/Managerial in Cloud/Data infastructure creation and ETL, and extensive experience in Data Science, Machine/Deep Learning and DevOps.
 
 * ABOUT
 about__description
-Web developer, with extensive knowledge and years of experience, working in web technologies and Ui / Ux design, delivering quality work.
+Motivated/high-energy professional in Data Engineering/Analytics, DevOps, 
+Statistical Process Control, and Project Management with desire to provide metric driven solutions, automation, 
+and continuous improvement initiatives.
 
 about__info-name
-Years <br> experience
-Completed <br> project
-Companies <br> worked
+Years 8+ experience
+Completed 20+ project
+Companies 3 worked
 
 
-* SERVICES
+* EXPERIENCES
 services__modal-service
 I develop the user interface.
 Web page development.
 I create ux element interactions.
-I position your company brand.
 
 
 * PORTFOLIO
@@ -31,20 +30,14 @@ portfolio__description
 Website adaptable to all devices, with ui components and animated interactions.
 
 
-* PROJECT
-project__description
-Contact me now and get a 30% discount on your new project.
-
-
 * TESTIMONIAL
 testimonial__description
-I get a good impression, I carry out my project with all the possible quality and attention and support 24 hours a day.
+I get a good impression, I carry out my projects with all the possible quality and attention and support.
 
 
 * FOOTER
 footer__social
-https://www.facebook.com/
-https://www.instagram.com/
-https://twitter.com/
+https://linkedin.com/in/eacalderon-engmba-analytics
+https://github.com/Emanuel071
 
 
