@@ -535,6 +535,12 @@ nav.nav__toggle:hover{
 .skills__bash{
   width: 61%;
 }
+.skills__jmp{
+  width: 66%;
+}
+.skills__r{
+  width: 47%;
+}
 
 .skills__close .skills__list{
   height: 0;
