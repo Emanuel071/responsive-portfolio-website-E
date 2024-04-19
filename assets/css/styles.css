@@ -495,6 +495,12 @@ nav.nav__toggle:hover{
   display: block;
   background-color: var(--first-color);
 }
+.skills__pysparkdeii{
+  width: 93%;
+}
+.skills__pysparkde{
+  width: 59%;
+}
 .skills__python{
   width: 93%;
 }
