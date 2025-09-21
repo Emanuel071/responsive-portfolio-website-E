@@ -237,7 +237,7 @@ nav.nav__toggle:hover{
 }
 
 .nav__link:hover{
-  color: var(--first-color);
+  color: var(--first-color); /* Changes the color of the navigation link on hover to the primary color */
 }
 
 .nav__icon{
@@ -271,7 +271,6 @@ nav.nav__toggle:hover{
 .scroll-header{
   box-shadow: 0 -1px 4px rgba(0, 0, 0, .15);
 }
-
 /*==================== HOME ====================*/
 .home__container{
   gap: 1rem;
