@@ -151,7 +151,12 @@ let swiperTestimonial = new Swiper(".testimonial__container", {
 
 const sections = document.querySelectorAll("section[id]");
 
+// When true, scrolling won't override a hover-set active link.
+let hoverSuppress = false;
+
 function scrollActive() {
+  if (hoverSuppress) return;
+
   const scrollY = window.pageYOffset;
 
   sections.forEach((current) => {
@@ -185,7 +190,6 @@ scrollActive();
 // Hover suppression: when the user hovers a section we want to force the
 // qualifications nav link to stay highlighted even if the scroll position
 // briefly moves. `hoverSuppress` prevents `scrollActive` from clearing it.
-let hoverSuppress = false;
 
 function setNavActiveById(id) {
   // clear others then set
